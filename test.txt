@@ -10,5 +10,4 @@ Hey jarvis, how are you doing, is everything ok?
 Do you think i can be a it engineer? Yes you will!
 This is a new barnch, so you can add, change or delete the code you want.
 Detached conflicts!
-You need to fix the conflit before merging!
-The conflit has been solved! You can merge the branch to your current branch, i.ge. mater.
+You need to fix the conflit before merging.
