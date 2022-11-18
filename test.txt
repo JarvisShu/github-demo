@@ -13,3 +13,4 @@ Detached conflicts!
 You need to fix the conflit before merging.
 The conflit has been solved! You can merge the branch to your current branch, i.ge. mater.
 Congratulations! You have pushed the code to your remote repository.
+Congratulations! You have pushed the code to your remote repository by tokens.
