@@ -12,4 +12,4 @@ This is a new barnch, so you can add, change or delete the code you want.
 Detached conflicts!
 You need to fix the conflit before merging.
 The conflit has been solved! You can merge the branch to your current branch, i.ge. mater.
-Congratulations, you have pushed the code to your remote repository!
+Congratulations! You have pushed the code to your remote repository.
